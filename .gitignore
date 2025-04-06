@@ -1,6 +1,8 @@
 /rust-sudoku/target/
 /rust-tick-tack-toe/target/
 /rust-password-generator/target/
+/rust-isbn/target/
 /rust-sudoku/.vscode
 /rust-tick-tack-toe/.vscode
 /rust-password-generator/.vscode/
+/rust-isbn/.vscode/
